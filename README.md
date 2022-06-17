@@ -1,4 +1,4 @@
 # simple_shell
 
-AUTHORS 
+# AUTHORS 
 The authors of the repo are listed here
