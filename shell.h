@@ -32,14 +32,14 @@ int _strcmp(const char *s1, const char *s2);
 char *_strcat(char *dest, char *src);
 int _strlen(char *s);
 
-/* PATH Helpers */
+/* PATH */
 
 char **tokenize(char *buffer);
 int _splitPATH(char *str);
 int _PATHstrcmp(const char *s1, const char *s2);
 char *_concat(char *tmp, char **av, char *tok);
 
-/* More helpers*/
+/* More */
 
 char *_getenv(const char *name);
 int _env(void);
